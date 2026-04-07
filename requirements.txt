@@ -1,0 +1,17 @@
+#cross fade
+pydub
+ffmpeg-python
+librosa
+numpy
+scipy
+#front end
+streamlit   
+#sofware
+fastapi
+uvicorn[standard]   
+python-multipart
+pillow
+requests
+aiofiles
+#experiments
+ipykernel

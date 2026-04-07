@@ -13,4 +13,6 @@ git branch -M main
 git commit -m "first commit"
 git remote add origin git@github.com:lakdinesh/youtubeAutomation.git
 git push -u origin main
+
+uv pip install -r requirements.txt
 follows above 
