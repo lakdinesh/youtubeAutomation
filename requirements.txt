@@ -1,6 +1,7 @@
 #cross fade
 pydub
 ffmpeg-python
+imageio-ffmpeg
 librosa
 numpy
 scipy
